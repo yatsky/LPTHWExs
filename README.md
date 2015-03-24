@@ -7,3 +7,4 @@ So now I jump back to Learn Python the hard way with the goal to do a few exerci
 ## 2015.3.24
 * This is the first exercise "print"!:)
 * And the second one "more print"! :)
+* Tired with wincred....
