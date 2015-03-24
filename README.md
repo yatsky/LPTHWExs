@@ -6,4 +6,3 @@ So now I jump back to Learn Python the hard way with the goal to do a few exerci
 
 I want to know how to cd to directory with whitespace in its name...
 another test
-hope this is the final test
